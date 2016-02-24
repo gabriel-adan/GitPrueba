@@ -15,3 +15,5 @@ Cliente c;
 Cliente c = new Cliente();
 var g = c.generar();
 Service.Save(g);
+
+Service.close();
