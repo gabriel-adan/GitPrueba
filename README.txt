@@ -10,4 +10,4 @@ for(int x = 0; x <i; x++)
 
 }
 
-//final
+Cliente c;
