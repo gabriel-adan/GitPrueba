@@ -17,3 +17,5 @@ var g = c.generar();
 Service.Save(g);
 
 Service.close();
+
+print(g);
