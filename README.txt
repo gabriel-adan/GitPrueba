@@ -11,3 +11,6 @@ for(int x = 0; x <i; x++)
 }
 
 Cliente c;
+
+
+Service.close();
