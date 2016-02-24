@@ -11,3 +11,7 @@ for(int x = 0; x <i; x++)
 }
 
 Cliente c;
+
+Cliente c = new Cliente();
+var g = c.generar();
+Service.Save(g);
